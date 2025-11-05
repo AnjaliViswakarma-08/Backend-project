@@ -1,0 +1,9 @@
+Django==4.2.24
+djangorestframework
+django-cors-headers
+pymongo
+python-dotenv
+dnspython
+transformers
+torch
+nltk
